@@ -1,0 +1,48 @@
+[
+    {
+        "categoria": "Paso 5",
+        "pregunta": "¿Qué cosa debemos hacer junto con el arrepentimiento, para que Dios perdone nuestros pecados? ",
+        "respuesta": "CONFESAR NUESTROS PECADOS",
+        "incorecta_1": "DORMIR",
+        "incorecta_2": "COMER",
+        "imagen": "https://desdelafe.mx/wp-content/uploads/2023/09/Jesus-Emmanuel.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"1 Juan 1:9 (Reina – Valera 1960) ",
+        "info_cita":"Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad."
+    },
+
+    {
+        "categoria": "Paso 5",
+        "pregunta": "¿Qué le dijo el sabio Salomón al pueblo sobre la confesión? ",
+        "respuesta": "NO ENCUBRIR EL PECADO Y APARTARSE DE ELLOS",
+        "incorecta_1": "NO DECIR SU PECADO",
+        "incorecta_2": "NO SE SABE",
+        "imagen": "https://churchofjesuschrist.org/imgs/7d341df691f1697dc08455fc4b3ff3e393de8a2e/full/500%2C/0/default",
+        "object_fit": "cover",
+        "cita_biblica":"Proverbios 28:13 (Reina - Valera 1960)",
+        "info_cita":"El que encubre sus pecados no prosperará; más el que los confiesa y se aparta alcanzará misericordia."
+    },
+
+    {
+        "categoria": "Paso 5",
+        "pregunta": "¿Por qué es importante la confesión?",
+        "respuesta": "PARA CONFIRMAR LA SALVACIÓN",
+        "incorecta_1": "PARA SABER MAS DE LA BBILIA",
+        "incorecta_2": "PORQUE SI",
+        "imagen": "https://media.ambito.com/p/547c614a3a554465ade30f1d343cce9f/adjuntos/239/imagenes/040/871/0040871894/1200x675/smart/jesusjpg.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"Romanos 10:10 (Reina – Valera 1960) ",
+        "info_cita":"Porque con el corazón se cree para justicia, pero con la boca se confiesa para salvación."
+    },
+    {
+        "categoria": "Paso 4",
+        "pregunta": "¿Qué puede sucederle a los que ocultan sus pecados y no los confiesan? ",
+        "respuesta": "ENVEJECER",
+        "incorecta_1": "NADA",
+        "incorecta_2": "MORIR",
+        "imagen": "https://www.denisonforum.org/wp-content/uploads/2023/04/jesus-hand-out-1120.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"Salmos 32:3 (Reina – Valera 1960) ",
+        "info_cita":"Mientras callé, se envejecieron mis huesos en mi gemir todo el día."
+    }
+]
